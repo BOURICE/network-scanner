@@ -217,4 +217,4 @@ Bourice Racheal - [GitHub](https://github.com/BOURICE) | [LinkedIn](https://www.
 
 ---
 
-**⭐ If you find this useful, please star the repository!**based network scanner with port detection and service identification
+**⭐ If you find this useful, please star the repository!**
